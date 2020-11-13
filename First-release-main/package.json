@@ -1,6 +1,9 @@
 {
   "name": "super-dev-app",
   "version": "0.0.6",
+  "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "scripts": {
     "start": "node ./server.js"
